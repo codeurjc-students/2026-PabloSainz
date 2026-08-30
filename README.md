@@ -87,6 +87,8 @@ You can see the current project status on it's related github project on: "See a
 
 TODO (As the project progresses)
 
+[Website layout](https://www.figma.com/design/4TL76NTkyb7FL6PTQH29iN/Trainfyre-maquetaci%C3%B3n?node-id=305-5749&t=TcFFmUE4bhh7lFds-1). Please note that this layout is only a prototype and may change during future development and implementation.
+
 ## Follow-up
 
 GitHub project used to track this project: [link](https://github.com/orgs/codeurjc-students/projects/52)
