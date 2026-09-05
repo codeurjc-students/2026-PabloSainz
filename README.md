@@ -103,5 +103,5 @@ and Computer Systems Engineering at the ETSII of the URJC.
 
 ## See also
 
-* [Changelog]()
-* [Ai_usage]()
+* [Changelog](https://github.com/codeurjc-students/2026-PabloSainz/blob/main/CHANGELOG.md)
+* [Ai_usage](https://github.com/codeurjc-students/2026-PabloSainz/blob/main/AI_USAGE.md)
