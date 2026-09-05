@@ -20,3 +20,15 @@ appear at the end and the newest at the beginning of the document.
 * Tool add-ons: Plugins, skills, MCP servers, tools, etc.
 * Context files regarding AI usage in the project (CLAUDE.md or similar)
 * If tools relying on specific files for AI-driven development are used (e.g., Spec-Driven Development tools), indicate the location of these documents within the repository and how they were utilized.
+
+## Google Gemini
+
+* Date: 2026/08/16
+* Phase: 1
+* Objective: Research
+* Tool: Google Gemini
+* Specific version: Gemini 3.5 Flash
+* Tool configuration: Chat (from Google research)
+* Usage details: 
+  * It was used directly from google browser to quickly research important topics such as similar apps to this one.
+  * It was also used to check how to create a table in markdown
